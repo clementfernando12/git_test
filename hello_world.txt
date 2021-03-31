@@ -1,1 +1,0 @@
-This Clement's first git project
